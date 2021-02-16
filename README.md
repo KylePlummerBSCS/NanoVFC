@@ -13,4 +13,5 @@ When scrubbing operations are complete the file is reconstituted without the rem
  
  
 # Source
-The code found in 
+The code found in Source.cpp was mostly taken from an example in the Windows API Documentation and lightly altered so that the program had a GUI prompt for selecting files.
+The rest of it was written by this developer.
