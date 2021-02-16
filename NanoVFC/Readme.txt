@@ -1,4 +1,4 @@
-This is the source code for NanoVFC2. It is fugly. I originally wrote NanoVFC just for myself 
+This is the source code for NanoVFC2. I originally wrote NanoVFC just for myself 
 to do the RXA-21 delete operations and it was just command line controlled. I figured before I 
 left someone else in charge of uploading our VFC files to NYSIIS I had to update it to use 
 Windows GUI. I took the open file dialog example code from the MS Windows API and just shoved
