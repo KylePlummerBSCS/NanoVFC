@@ -12,6 +12,6 @@ The RXA-21 Delete scrubbing operation searches each message for the RXA line and
 When scrubbing operations are complete the file is reconstituted without the removed records and output in a file marked "OUT". Those records removed are alsp kept, output in a file marked "DEL".
  
  
-# Source
+### Source
 The code found in Source.cpp was mostly taken from an example in the Windows API Documentation and lightly altered so that the program had a GUI prompt for selecting files.
 The rest of it was written by this developer.
